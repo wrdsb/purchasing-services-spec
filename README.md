@@ -1,6 +1,9 @@
-# Specs for Unnamed Omnibus Purchasing Services App.
+# Specs for Omnibus Purchasing Services App.
 
-## Loaner Stock Request
+## Version 1.0 (MVP)
+This version replaces the current Courier Request Form, the emails it generates, the scheduling spreadsheet used by staff for loaner stock, and the manually generated courier schedule.
+
+### Loaner Stock Request Process
 * Client logs in and chooses Loaner Stock Request
 * Client fills in form
 * Client submits form
@@ -12,7 +15,7 @@
 * Stock availability is updated
 * Client receives confirmation of request approval and details
 
-## Courier Pickup Request
+### Courier Pickup Request Process
  * Client logs in and chooses Pickup Request
  * Client fills in form
  * Client submits form
